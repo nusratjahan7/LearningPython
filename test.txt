@@ -2,4 +2,3 @@ Hello, this is some text in test.txt.
 This file was created for testing purposes.
 This is a new line.
 Another new line added.
-Yet another line of text.
