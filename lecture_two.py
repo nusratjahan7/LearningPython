@@ -81,10 +81,5 @@ elif num < 0:
 else:
     print("\nNumber is zero")
 
-# Even or odd check
-for n in range(1, 6):
-    if n % 2 == 0:
-        print(f"{n} is even")
-    else:
-        print(f"{n} is odd")
+
 
